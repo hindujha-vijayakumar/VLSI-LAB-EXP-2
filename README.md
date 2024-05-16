@@ -42,7 +42,7 @@ endmodule
 ##  MULTIPLEXER 8:1:
 ![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-2/assets/160568654/81e886bb-97d6-4a51-aa2f-d7e6429f6525)
 ## PROGRAM: 
-module Mux 8 1 (s0,s1,s2, i,y);<br>
+module Mux8_1(s0,s1,s2, i,y);<br>
 input [7:0]i;<br>
 input 50, s1,s2;<br>
 output y;<br>
